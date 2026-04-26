@@ -1,0 +1,490 @@
+2026-04-23 21:59:21,836 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 21:59:35,751 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:03:58,666 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:03:58,667 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:03:58,668 [INFO] scraper: 🔍 Built 121 unique search queries
+2026-04-23 22:03:58,669 [INFO] scraper: 🔍 Built 121 unique search queries
+2026-04-23 22:03:58,670 [INFO] scraper: Searching Google: CEO construction company Mumbai email contact
+2026-04-23 22:04:03,543 [INFO] scraper: Searching Google: top construction companies Bangalore list
+2026-04-23 22:04:08,078 [INFO] scraper: Searching Google: site:linkedin.com/in CFO construction Mumbai
+2026-04-23 22:04:12,080 [INFO] scraper: Searching Google: procurement manufacturing Mumbai
+2026-04-23 22:04:15,756 [INFO] scraper: Searching Google: healthcare company Mumbai contact director managing
+2026-04-23 22:04:21,129 [INFO] scraper: Searching Google: Procurement Manager manufacturing company Bangalore email contact
+2026-04-23 22:04:26,136 [INFO] scraper: Searching Google: logistics Delhi MD CEO contact details
+2026-04-23 22:04:31,692 [INFO] scraper: Searching Google: Managing Director manufacturing company Chennai email contact
+2026-04-23 22:04:37,500 [INFO] scraper: Searching Google: looking for construction Mumbai
+2026-04-23 22:04:41,029 [INFO] scraper: Searching Google: construction company Chennai contact director managing
+2026-04-23 22:04:46,208 [INFO] scraper: Searching Google: healthcare company Chennai contact director managing
+2026-04-23 22:04:50,287 [INFO] scraper: Searching Google: healthcare Chennai MD CEO contact details
+2026-04-23 22:04:53,887 [INFO] scraper: Searching Google: Procurement Manager logistics company Chennai email contact
+2026-04-23 22:04:57,048 [INFO] scraper: Searching Google: manufacturing Mumbai MD CEO contact details
+2026-04-23 22:05:01,264 [INFO] scraper: Searching Google: Procurement Manager logistics company Mumbai email contact
+2026-04-23 22:05:06,277 [INFO] scraper: Scraper complete: 0 new leads from 15 queries
+2026-04-23 22:05:06,278 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:05:06,281 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:05:06,283 [INFO] enricher: Enrichment complete: 0 leads enriched
+2026-04-23 22:05:06,284 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:05:06,286 [INFO] pattern_matcher: Loaded 3 existing customers
+2026-04-23 22:05:06,287 [INFO] pattern_matcher: Patterns extracted from 3 customers
+2026-04-23 22:05:06,295 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:05:06,301 [INFO] reporter: Daily report saved to /Users/family/Documents/glambot_pro/lead_gen_system/data/report.txt
+2026-04-23 22:05:06,333 [INFO] database: 📊 Daily stats updated: 0 leads, 0 hot, 0 warm, 0 cold
+2026-04-23 22:05:06,353 [INFO] main: Pipeline complete: 0 new leads in 68 seconds
+2026-04-23 22:15:07,868 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:15:07,870 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:15:07,871 [INFO] scraper: 🔍 Built 121 unique search queries
+2026-04-23 22:15:07,871 [INFO] scraper: 🔍 Built 121 unique search queries
+2026-04-23 22:15:07,874 [INFO] scraper: Searching Google: site:linkedin.com/in Managing Director construction Chennai
+2026-04-23 22:15:10,763 [INFO] scraper: Searching Google: supplier needed manufacturing Mumbai
+2026-04-23 22:15:15,770 [INFO] scraper: Searching Google: construction company Chennai contact director managing
+2026-04-23 22:15:20,974 [INFO] scraper: Searching Google: procurement construction Chennai
+2026-04-23 22:15:24,764 [INFO] scraper: Searching Google: supplier needed construction Mumbai
+2026-04-23 22:15:29,217 [INFO] scraper: Searching Google: CEO logistics company Chennai email contact
+2026-04-23 22:15:33,155 [INFO] scraper: Searching Google: top logistics companies Bangalore list
+2026-04-23 22:15:37,152 [INFO] scraper: Searching Google: Managing Director manufacturing company Bangalore email contact
+2026-04-23 22:15:41,337 [INFO] scraper: Searching Google: construction Mumbai MD CEO contact details
+2026-04-23 22:15:47,475 [INFO] scraper: Searching Google: manufacturing Bangalore MD CEO contact details
+2026-04-23 22:15:51,069 [INFO] scraper: Searching Google: Procurement Manager construction company Mumbai email contact
+2026-04-23 22:15:54,763 [INFO] scraper: Searching Google: site:linkedin.com/in CFO logistics Mumbai
+2026-04-23 22:16:00,108 [INFO] scraper: Searching Google: procurement manufacturing Chennai
+2026-04-23 22:16:06,245 [INFO] scraper: Searching Google: site:linkedin.com/in CEO construction Chennai
+2026-04-23 22:16:11,503 [INFO] scraper: Searching Google: vendor required manufacturing Mumbai
+2026-04-23 22:16:14,885 [INFO] scraper: Scraper complete: 0 new leads from 15 queries
+2026-04-23 22:16:14,887 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:16:14,900 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:16:14,902 [INFO] enricher: Enrichment complete: 0 leads enriched
+2026-04-23 22:16:14,903 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:16:14,904 [INFO] pattern_matcher: Loaded 3 existing customers
+2026-04-23 22:16:14,912 [INFO] pattern_matcher: Patterns extracted from 3 customers
+2026-04-23 22:16:14,926 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:16:14,936 [INFO] reporter: Daily report saved to /Users/family/Documents/glambot_pro/lead_gen_system/data/report.txt
+2026-04-23 22:16:14,968 [INFO] database: 📊 Daily stats updated: 0 leads, 0 hot, 0 warm, 0 cold
+2026-04-23 22:16:14,976 [INFO] main: Pipeline complete: 0 new leads in 67 seconds
+2026-04-23 22:16:29,832 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:16:29,836 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:16:29,840 [INFO] scraper: 🔍 Built 121 unique search queries
+2026-04-23 22:16:29,841 [INFO] scraper: 🔍 Built 121 unique search queries
+2026-04-23 22:16:29,848 [INFO] scraper: Searching Google: vendor required manufacturing Mumbai
+2026-04-23 22:16:32,713 [INFO] primp: response: https://www.bing.com/search?q=vendor+required+manufacturing+Mumbai 200
+2026-04-23 22:16:35,668 [INFO] scraper: Searching Google: CEO manufacturing company Mumbai email contact
+2026-04-23 22:16:36,984 [INFO] primp: response: https://www.bing.com/search?q=CEO+manufacturing+company+Mumbai+email+contact 200
+2026-04-23 22:16:41,851 [INFO] scraper: Searching Google: supplier needed manufacturing Mumbai
+2026-04-23 22:16:43,097 [INFO] primp: response: https://www.bing.com/search?q=supplier+needed+manufacturing+Mumbai 200
+2026-04-23 22:16:48,519 [INFO] scraper: Searching Google: site:linkedin.com/in Managing Director logistics Chennai
+2026-04-23 22:16:49,845 [INFO] primp: response: https://www.bing.com/search?q=site%3Alinkedin.com%2Fin+Managing+Director+logistics+Chennai 200
+2026-04-23 22:16:50,896 [INFO] primp: response: https://www.bing.com/search?q=site%3Alinkedin.com%2Fin+Managing+Director+logistics+Chennai&first=11&FORM=PERE 200
+2026-04-23 22:16:51,852 [INFO] primp: response: https://www.bing.com/search?q=site%3Alinkedin.com%2Fin+Managing+Director+logistics+Chennai&first=21&FORM=PERE1 200
+2026-04-23 22:16:52,860 [INFO] primp: response: https://www.bing.com/search?q=site%3Alinkedin.com%2Fin+Managing+Director+logistics+Chennai&first=31&FORM=PERE2 200
+2026-04-23 22:16:53,899 [INFO] primp: response: https://www.bing.com/search?q=site%3Alinkedin.com%2Fin+Managing+Director+logistics+Chennai&first=41&FORM=PERE3 200
+2026-04-23 22:16:57,496 [INFO] scraper: Searching Google: CEO logistics company Bangalore email contact
+2026-04-23 22:16:58,822 [INFO] primp: response: https://www.bing.com/search?q=CEO+logistics+company+Bangalore+email+contact 200
+2026-04-23 22:17:01,865 [INFO] scraper: Searching Google: construction Mumbai MD CEO contact details
+2026-04-23 22:17:03,246 [INFO] primp: response: https://www.bing.com/search?q=construction+Mumbai+MD+CEO+contact+details 200
+2026-04-23 22:17:04,300 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:17:04,302 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:17:04,311 [INFO] scraper: 🔍 Built 121 unique search queries
+2026-04-23 22:17:04,311 [INFO] scraper: 🔍 Built 121 unique search queries
+2026-04-23 22:17:04,316 [INFO] scraper: Searching Google: procurement manufacturing Chennai
+2026-04-23 22:17:05,403 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:17:05,405 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:17:06,205 [INFO] scraper: Searching Google: looking for construction Mumbai
+2026-04-23 22:17:06,861 [INFO] primp: response: https://www.bing.com/search?q=procurement+manufacturing+Chennai 200
+2026-04-23 22:17:07,403 [INFO] primp: response: https://www.bing.com/search?q=looking+for+construction+Mumbai 200
+2026-04-23 22:17:11,755 [INFO] scraper: Searching Google: site:linkedin.com/in Managing Director logistics Mumbai
+2026-04-23 22:17:12,360 [INFO] scraper: Searching Google: procurement logistics Chennai
+2026-04-23 22:17:13,234 [INFO] primp: response: https://www.bing.com/search?q=site%3Alinkedin.com%2Fin+Managing+Director+logistics+Mumbai 200
+2026-04-23 22:17:13,671 [INFO] primp: response: https://www.bing.com/search?q=procurement+logistics+Chennai 200
+2026-04-23 22:17:14,253 [INFO] primp: response: https://www.bing.com/search?q=site%3Alinkedin.com%2Fin+Managing+Director+logistics+Mumbai&first=11&FORM=PERE 200
+2026-04-23 22:17:15,196 [INFO] primp: response: https://www.bing.com/search?q=site%3Alinkedin.com%2Fin+Managing+Director+logistics+Mumbai&first=21&FORM=PERE1 200
+2026-04-23 22:17:16,159 [INFO] primp: response: https://www.bing.com/search?q=site%3Alinkedin.com%2Fin+Managing+Director+logistics+Mumbai&first=31&FORM=PERE2 200
+2026-04-23 22:17:17,097 [INFO] primp: response: https://www.bing.com/search?q=site%3Alinkedin.com%2Fin+Managing+Director+logistics+Mumbai&first=41&FORM=PERE3 200
+2026-04-23 22:17:20,236 [INFO] scraper: Searching Google: top logistics companies Mumbai list
+2026-04-23 22:17:21,526 [INFO] primp: response: https://www.bing.com/search?q=top+logistics+companies+Mumbai+list 200
+2026-04-23 22:17:24,768 [INFO] database: ✅ Lead saved [ID:1]: Arjun Mehta at Mehta Industrial Works
+2026-04-23 22:17:24,768 [INFO] scraper: Searching Google: construction company Bangalore contact director managing
+2026-04-23 22:17:26,148 [INFO] primp: response: https://www.bing.com/search?q=construction+company+Bangalore+contact+director+managing 200
+2026-04-23 22:17:26,411 [INFO] database: ✅ Lead saved [ID:2]:  at éè´­é¨ï¼Procurementï¼ç®ä»_ç¾åº¦ç¥é
+2026-04-23 22:17:28,435 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:17:28,452 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:17:30,354 [INFO] scraper: Searching Google: site:linkedin.com/in CFO logistics Mumbai
+2026-04-23 22:17:31,520 [INFO] database: ✅ Lead saved [ID:3]:  at epcãpcãcåå«æ¯ä»ä¹æ¿åååï¼_ç¾åº¦ç¥é
+2026-04-23 22:17:33,216 [INFO] primp: response: https://www.bing.com/search?q=site%3Alinkedin.com%2Fin+CFO+logistics+Mumbai 200
+2026-04-23 22:17:34,175 [INFO] primp: response: https://www.bing.com/search?q=site%3Alinkedin.com%2Fin+CFO+logistics+Mumbai&first=11&FORM=PERE 200
+2026-04-23 22:17:35,208 [INFO] primp: response: https://www.bing.com/search?q=site%3Alinkedin.com%2Fin+CFO+logistics+Mumbai&first=21&FORM=PERE1 200
+2026-04-23 22:17:36,162 [INFO] primp: response: https://www.bing.com/search?q=site%3Alinkedin.com%2Fin+CFO+logistics+Mumbai&first=31&FORM=PERE2 200
+2026-04-23 22:17:36,249 [INFO] database: ✅ Lead saved [ID:4]:  at ä¸æææSourcingä¸Buyerï¼PurchasingåProcurementçåºå«_ç¾åº¦ç¥é
+2026-04-23 22:17:37,347 [INFO] primp: response: https://www.bing.com/search?q=site%3Alinkedin.com%2Fin+CFO+logistics+Mumbai&first=41&FORM=PERE3 200
+2026-04-23 22:17:42,282 [INFO] scraper: Searching Google: healthcare company Mumbai contact director managing
+2026-04-23 22:17:43,221 [INFO] primp: response: https://www.bing.com/search?q=healthcare+company+Mumbai+contact+director+managing 200
+2026-04-23 22:17:47,328 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:17:47,401 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:17:47,742 [INFO] scraper: Searching Google: healthcare Delhi MD CEO contact details
+2026-04-23 22:17:48,021 [INFO] database: ✅ Lead saved [ID:5]:  at procurementåpurchasing æä½åºå«å¢ï¼_ç¾åº¦ç¥é
+2026-04-23 22:17:50,100 [INFO] primp: response: https://www.bing.com/search?q=healthcare+Delhi+MD+CEO+contact+details 200
+2026-04-23 22:17:50,843 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:17:50,845 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:17:52,634 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:17:52,637 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:17:53,021 [INFO] scraper: Searching Google: CEO manufacturing company Bangalore email contact
+2026-04-23 22:17:53,275 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:17:53,276 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:17:53,582 [INFO] database: ✅ Lead saved [ID:6]:  at éè´­cegå¨ç§°_ç¾åº¦ç¥é
+2026-04-23 22:17:54,382 [INFO] primp: response: https://www.bing.com/search?q=CEO+manufacturing+company+Bangalore+email+contact 200
+2026-04-23 22:17:55,384 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:17:55,393 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:17:56,215 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:17:56,225 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:17:57,337 [INFO] scraper: Searching Google: site:linkedin.com/in CEO construction Mumbai
+2026-04-23 22:17:57,692 [INFO] database: ✅ Lead saved [ID:7]:  at éè´­èä½æåªäºåç±»?_ç¾åº¦ç¥é
+2026-04-23 22:17:58,967 [INFO] primp: response: https://www.bing.com/search?q=site%3Alinkedin.com%2Fin+CEO+construction+Mumbai 200
+2026-04-23 22:17:59,911 [INFO] primp: response: https://www.bing.com/search?q=site%3Alinkedin.com%2Fin+CEO+construction+Mumbai&first=11&FORM=PERE 200
+2026-04-23 22:18:00,940 [INFO] primp: response: https://www.bing.com/search?q=site%3Alinkedin.com%2Fin+CEO+construction+Mumbai&first=21&FORM=PERE1 200
+2026-04-23 22:18:01,897 [INFO] primp: response: https://www.bing.com/search?q=site%3Alinkedin.com%2Fin+CEO+construction+Mumbai&first=31&FORM=PERE2 200
+2026-04-23 22:18:02,885 [INFO] primp: response: https://www.bing.com/search?q=site%3Alinkedin.com%2Fin+CEO+construction+Mumbai&first=41&FORM=PERE3 200
+2026-04-23 22:18:05,062 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:18:05,082 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:18:05,459 [INFO] database: ✅ Lead saved [ID:8]:  at VBPåééçåºå«_ç¾åº¦ç¥é
+2026-04-23 22:18:05,832 [INFO] scraper: Searching Google: supplier needed manufacturing Chennai
+2026-04-23 22:18:07,221 [INFO] primp: response: https://www.bing.com/search?q=supplier+needed+manufacturing+Chennai 200
+2026-04-23 22:18:07,970 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:18:07,982 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:18:10,978 [INFO] database: ✅ Lead saved [ID:9]:  at å½åå¤ç ç©¶ç°ç¶è±æ_ç¾åº¦ç¥é
+2026-04-23 22:18:10,981 [INFO] scraper: Searching Google: manufacturing Delhi MD CEO contact details
+2026-04-23 22:18:12,165 [INFO] primp: response: https://www.bing.com/search?q=manufacturing+Delhi+MD+CEO+contact+details 200
+2026-04-23 22:18:14,720 [INFO] scraper: Searching Google: supplier needed logistics Mumbai
+2026-04-23 22:18:16,058 [INFO] primp: response: https://www.bing.com/search?q=supplier+needed+logistics+Mumbai 200
+2026-04-23 22:18:20,825 [INFO] scraper: Searching Google: site:linkedin.com/in CEO logistics Mumbai
+2026-04-23 22:18:21,469 [INFO] database: ✅ Lead saved [ID:10]:  at supplieræ¯ä»ä¹ææ_ç¾åº¦ç¥é
+2026-04-23 22:18:22,124 [INFO] primp: response: https://www.bing.com/search?q=site%3Alinkedin.com%2Fin+CEO+logistics+Mumbai 200
+2026-04-23 22:18:23,102 [INFO] primp: response: https://www.bing.com/search?q=site%3Alinkedin.com%2Fin+CEO+logistics+Mumbai&first=11&FORM=PERE 200
+2026-04-23 22:18:24,100 [INFO] primp: response: https://www.bing.com/search?q=site%3Alinkedin.com%2Fin+CEO+logistics+Mumbai&first=21&FORM=PERE1 200
+2026-04-23 22:18:25,099 [INFO] primp: response: https://www.bing.com/search?q=site%3Alinkedin.com%2Fin+CEO+logistics+Mumbai&first=31&FORM=PERE2 200
+2026-04-23 22:18:26,093 [INFO] primp: response: https://www.bing.com/search?q=site%3Alinkedin.com%2Fin+CEO+logistics+Mumbai&first=41&FORM=PERE3 200
+2026-04-23 22:18:30,049 [INFO] database: ✅ Lead saved [ID:11]:  at QA/QE/QC/SQEçåºå«æ¯ä»ä¹?_ç¾åº¦ç¥é
+2026-04-23 22:18:30,082 [INFO] scraper: Searching Google: site:linkedin.com/in Managing Director manufacturing Chennai
+2026-04-23 22:18:30,899 [INFO] primp: response: https://www.bing.com/search?q=site%3Alinkedin.com%2Fin+Managing+Director+manufacturing+Chennai 200
+2026-04-23 22:18:31,820 [INFO] primp: response: https://www.bing.com/search?q=site%3Alinkedin.com%2Fin+Managing+Director+manufacturing+Chennai&first=11&FORM=PERE 200
+2026-04-23 22:18:32,849 [INFO] primp: response: https://www.bing.com/search?q=site%3Alinkedin.com%2Fin+Managing+Director+manufacturing+Chennai&first=21&FORM=PERE1 200
+2026-04-23 22:18:33,816 [INFO] primp: response: https://www.bing.com/search?q=site%3Alinkedin.com%2Fin+Managing+Director+manufacturing+Chennai&first=31&FORM=PERE2 200
+2026-04-23 22:18:34,804 [INFO] primp: response: https://www.bing.com/search?q=site%3Alinkedin.com%2Fin+Managing+Director+manufacturing+Chennai&first=41&FORM=PERE3 200
+2026-04-23 22:18:39,309 [INFO] database: ✅ Lead saved [ID:12]:  at QA/ QC/ SQAåå«æ¯ä»ä¹ææï¼_ç¾åº¦ç¥é
+2026-04-23 22:18:39,625 [INFO] scraper: Searching Google: top manufacturing companies Bangalore list
+2026-04-23 22:18:40,975 [INFO] primp: response: https://www.bing.com/search?q=top+manufacturing+companies+Bangalore+list 200
+2026-04-23 22:18:45,599 [INFO] scraper: Searching Google: construction company Bangalore contact director managing
+2026-04-23 22:18:45,911 [INFO] database: ✅ Lead saved [ID:13]:  at è¯·ç¿»è¯ï¼SupplierãModelãNameåæ¯ä»ä¹ææï¼è°¢è°¢ï¼_ç¾åº¦ç¥é
+2026-04-23 22:18:46,902 [INFO] primp: response: https://www.bing.com/search?q=construction+company+Bangalore+contact+director+managing 200
+2026-04-23 22:18:49,511 [INFO] scraper: Searching Google: CEO logistics company Mumbai email contact
+2026-04-23 22:18:49,576 [INFO] scraper: Searching Google: top construction companies Bangalore list
+2026-04-23 22:18:50,319 [INFO] primp: response: https://www.bing.com/search?q=top+construction+companies+Bangalore+list 200
+2026-04-23 22:18:50,771 [INFO] primp: response: https://www.bing.com/search?q=CEO+logistics+company+Mumbai+email+contact 200
+2026-04-23 22:18:55,233 [INFO] scraper: Searching Google: Managing Director construction company Bangalore email contact
+2026-04-23 22:18:56,688 [INFO] primp: response: https://www.bing.com/search?q=Managing+Director+construction+company+Bangalore+email+contact 200
+2026-04-23 22:19:01,551 [INFO] scraper: Searching Google: CEO manufacturing company Mumbai email contact
+2026-04-23 22:19:02,710 [INFO] primp: response: https://www.bing.com/search?q=CEO+manufacturing+company+Mumbai+email+contact 200
+2026-04-23 22:19:06,675 [INFO] scraper: Searching Google: finance company Bangalore contact director managing
+2026-04-23 22:19:07,956 [INFO] primp: response: https://www.bing.com/search?q=finance+company+Bangalore+contact+director+managing 200
+2026-04-23 22:19:12,983 [INFO] scraper: Searching Google: manufacturing Mumbai MD CEO contact details
+2026-04-23 22:19:14,057 [INFO] primp: response: https://www.bing.com/search?q=manufacturing+Mumbai+MD+CEO+contact+details 200
+2026-04-23 22:19:18,860 [INFO] scraper: Scraper complete: 5 new leads from 15 queries
+2026-04-23 22:19:18,861 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:19:18,866 [INFO] database: ✅ Lead [ID:13] updated: ['score', 'category']
+2026-04-23 22:19:18,900 [INFO] database: ✅ Lead [ID:12] updated: ['score', 'category']
+2026-04-23 22:19:18,903 [INFO] database: ✅ Lead [ID:11] updated: ['score', 'category']
+2026-04-23 22:19:18,912 [INFO] database: ✅ Lead [ID:10] updated: ['score', 'category']
+2026-04-23 22:19:18,930 [INFO] database: ✅ Lead [ID:9] updated: ['score', 'category']
+2026-04-23 22:19:18,933 [INFO] database: ✅ Lead [ID:8] updated: ['score', 'category']
+2026-04-23 22:19:18,943 [INFO] database: ✅ Lead [ID:7] updated: ['score', 'category']
+2026-04-23 22:19:18,948 [INFO] database: ✅ Lead [ID:6] updated: ['score', 'category']
+2026-04-23 22:19:18,955 [INFO] database: ✅ Lead [ID:5] updated: ['score', 'category']
+2026-04-23 22:19:18,961 [INFO] database: ✅ Lead [ID:4] updated: ['score', 'category']
+2026-04-23 22:19:18,965 [INFO] database: ✅ Lead [ID:3] updated: ['score', 'category']
+2026-04-23 22:19:18,970 [INFO] database: ✅ Lead [ID:2] updated: ['score', 'category']
+2026-04-23 22:19:18,973 [INFO] database: ✅ Lead [ID:1] updated: ['score', 'category']
+2026-04-23 22:19:18,974 [INFO] scorer: Scored 13 leads: 1 HOT, 0 WARM, 12 COLD
+2026-04-23 22:19:18,988 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:19:19,205 [INFO] database: ✅ Lead saved [ID:14]:  at è£äºé¿ãCEOãæ»è£ãé¦å¸­æ§è¡å®é½æä»ä¹åºå«ï¼_ç¾åº¦ç¥é
+2026-04-23 22:19:20,681 [INFO] enricher: 🔍 Enriched company info for: Mehta Industrial Works
+2026-04-23 22:19:29,515 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:19:29,635 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:19:30,109 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:19:30,110 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:19:32,413 [INFO] database: ✅ Lead [ID:1] updated: ['company_info']
+2026-04-23 22:19:36,749 [INFO] enricher: Enrichment complete: 1 leads enriched
+2026-04-23 22:19:36,751 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:19:36,754 [INFO] pattern_matcher: Loaded 3 existing customers
+2026-04-23 22:19:36,755 [INFO] pattern_matcher: Patterns extracted from 3 customers
+2026-04-23 22:19:36,771 [INFO] database: ✅ Lead [ID:1] updated: ['pattern_match']
+2026-04-23 22:19:36,774 [INFO] database: ✅ Lead [ID:3] updated: ['pattern_match']
+2026-04-23 22:19:36,786 [INFO] database: ✅ Lead [ID:7] updated: ['pattern_match']
+2026-04-23 22:19:36,792 [INFO] database: ✅ Lead [ID:10] updated: ['pattern_match']
+2026-04-23 22:19:36,795 [INFO] database: ✅ Lead [ID:2] updated: ['pattern_match']
+2026-04-23 22:19:36,798 [INFO] database: ✅ Lead [ID:4] updated: ['pattern_match']
+2026-04-23 22:19:36,804 [INFO] database: ✅ Lead [ID:5] updated: ['pattern_match']
+2026-04-23 22:19:36,805 [INFO] database: ✅ Lead [ID:6] updated: ['pattern_match']
+2026-04-23 22:19:36,809 [INFO] database: ✅ Lead [ID:8] updated: ['pattern_match']
+2026-04-23 22:19:36,813 [INFO] database: ✅ Lead [ID:9] updated: ['pattern_match']
+2026-04-23 22:19:36,816 [INFO] database: ✅ Lead [ID:11] updated: ['pattern_match']
+2026-04-23 22:19:36,825 [INFO] database: ✅ Lead [ID:12] updated: ['pattern_match']
+2026-04-23 22:19:36,829 [INFO] database: ✅ Lead [ID:13] updated: ['pattern_match']
+2026-04-23 22:19:36,838 [INFO] database: ✅ Lead [ID:14] updated: ['pattern_match']
+2026-04-23 22:19:36,845 [INFO] pattern_matcher: Pattern matching: 1 high, 0 medium, 13 low
+2026-04-23 22:19:36,847 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:19:36,872 [INFO] reporter: Daily report saved to /Users/family/Documents/glambot_pro/lead_gen_system/data/report.txt
+2026-04-23 22:19:36,876 [INFO] reporter: Exported 1 HOT leads to /Users/family/Documents/glambot_pro/lead_gen_system/data/hot_leads.csv
+2026-04-23 22:19:36,884 [INFO] database: 📊 Daily stats updated: 14 leads, 1 hot, 0 warm, 13 cold
+2026-04-23 22:19:36,903 [INFO] main: Pipeline complete: 5 new leads in 153 seconds
+2026-04-23 22:19:41,724 [INFO] database: ✅ Lead saved [ID:15]:  at CEOãCFOãCOOãCMOãCIOçå®ä¹åå²ä½èè´£ï¼_ç¾åº¦ç¥é
+2026-04-23 22:19:41,724 [INFO] scraper: Scraper complete: 10 new leads from 15 queries
+2026-04-23 22:19:41,725 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:19:41,732 [INFO] database: ✅ Lead [ID:15] updated: ['score', 'category']
+2026-04-23 22:19:41,811 [INFO] database: ✅ Lead [ID:14] updated: ['score', 'category']
+2026-04-23 22:19:41,813 [INFO] scorer: Scored 2 leads: 0 HOT, 0 WARM, 2 COLD
+2026-04-23 22:19:41,814 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:19:42,406 [INFO] enricher: 🔍 Enriched company info for: Mehta Industrial Works
+2026-04-23 22:19:50,230 [INFO] database: ✅ Lead [ID:1] updated: ['company_info']
+2026-04-23 22:19:53,035 [INFO] enricher: Enrichment complete: 1 leads enriched
+2026-04-23 22:19:53,037 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:19:53,054 [INFO] pattern_matcher: Loaded 3 existing customers
+2026-04-23 22:19:53,054 [INFO] pattern_matcher: Patterns extracted from 3 customers
+2026-04-23 22:19:53,072 [INFO] database: ✅ Lead [ID:1] updated: ['pattern_match']
+2026-04-23 22:19:53,075 [INFO] database: ✅ Lead [ID:3] updated: ['pattern_match']
+2026-04-23 22:19:53,081 [INFO] database: ✅ Lead [ID:7] updated: ['pattern_match']
+2026-04-23 22:19:53,084 [INFO] database: ✅ Lead [ID:10] updated: ['pattern_match']
+2026-04-23 22:19:53,087 [INFO] database: ✅ Lead [ID:14] updated: ['pattern_match']
+2026-04-23 22:19:53,093 [INFO] database: ✅ Lead [ID:15] updated: ['pattern_match']
+2026-04-23 22:19:53,097 [INFO] database: ✅ Lead [ID:2] updated: ['pattern_match']
+2026-04-23 22:19:53,102 [INFO] database: ✅ Lead [ID:4] updated: ['pattern_match']
+2026-04-23 22:19:53,104 [INFO] database: ✅ Lead [ID:5] updated: ['pattern_match']
+2026-04-23 22:19:53,106 [INFO] database: ✅ Lead [ID:6] updated: ['pattern_match']
+2026-04-23 22:19:53,110 [INFO] database: ✅ Lead [ID:8] updated: ['pattern_match']
+2026-04-23 22:19:53,114 [INFO] database: ✅ Lead [ID:9] updated: ['pattern_match']
+2026-04-23 22:19:53,116 [INFO] database: ✅ Lead [ID:11] updated: ['pattern_match']
+2026-04-23 22:19:53,118 [INFO] database: ✅ Lead [ID:12] updated: ['pattern_match']
+2026-04-23 22:19:53,121 [INFO] database: ✅ Lead [ID:13] updated: ['pattern_match']
+2026-04-23 22:19:53,122 [INFO] pattern_matcher: Pattern matching: 1 high, 0 medium, 14 low
+2026-04-23 22:19:53,123 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:19:53,132 [INFO] reporter: Daily report saved to /Users/family/Documents/glambot_pro/lead_gen_system/data/report.txt
+2026-04-23 22:19:53,133 [INFO] reporter: Exported 1 HOT leads to /Users/family/Documents/glambot_pro/lead_gen_system/data/hot_leads.csv
+2026-04-23 22:19:53,136 [INFO] database: 📊 Daily stats updated: 15 leads, 1 hot, 0 warm, 14 cold
+2026-04-23 22:19:53,142 [INFO] main: Pipeline complete: 10 new leads in 203 seconds
+2026-04-23 22:48:42,101 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:48:42,104 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:49:17,227 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:49:17,512 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:49:51,934 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:49:51,935 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:50:01,287 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:50:01,460 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:50:07,186 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:50:07,194 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:50:10,875 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:50:10,878 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:50:13,395 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:50:13,460 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:50:19,357 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:50:19,417 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:50:20,864 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:50:20,868 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:50:21,849 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:50:21,869 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:50:22,231 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:50:22,234 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:50:22,954 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:50:22,964 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:50:24,875 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:50:24,966 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:50:30,653 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:50:30,678 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:50:31,145 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:50:31,174 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:50:32,307 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:50:32,310 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:50:40,931 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:50:40,937 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:50:45,859 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:50:45,860 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:50:52,120 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:50:52,125 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:50:53,882 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:50:53,887 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:51:09,438 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:51:09,440 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:51:09,645 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:51:09,646 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:51:20,070 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:51:20,075 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:51:27,676 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:51:27,679 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:52:16,488 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:52:16,551 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:52:19,781 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:52:19,807 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:52:20,914 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:52:20,939 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:52:26,420 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:52:26,468 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:53:03,444 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:53:03,445 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:53:04,692 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:53:04,694 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:53:16,877 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:53:16,879 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:53:17,121 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:53:17,123 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:53:19,021 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:53:19,032 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:53:19,187 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:53:19,190 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:53:29,871 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 22:53:29,872 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 23:01:33,180 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-23 23:01:33,229 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-24 08:37:31,095 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-24 08:37:31,105 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-24 08:37:31,110 [INFO] scraper: 🔍 Built 121 unique search queries
+2026-04-24 08:37:31,111 [INFO] scraper: 🔍 Built 121 unique search queries
+2026-04-24 08:37:31,127 [INFO] scraper: Searching Google: top logistics companies Chennai list
+2026-04-24 08:37:38,473 [INFO] primp: response: https://www.bing.com/search?q=top+logistics+companies+Chennai+list 200
+2026-04-24 08:37:52,724 [INFO] database: ✅ Lead saved [ID:16]:  at TOP
+2026-04-24 08:38:06,362 [INFO] database: ⏩ Duplicate skipped:  at TOP
+2026-04-24 08:38:13,394 [INFO] database: ✅ Lead saved [ID:17]:  at TOP中文(繁體)翻譯：劍橋詞典
+2026-04-24 08:38:21,069 [INFO] database: ✅ Lead saved [ID:18]:  at TOP在剑桥英语词典中的解释及翻译
+2026-04-24 08:38:29,005 [INFO] database: ✅ Lead saved [ID:19]:  at TOP中文(简体)翻译：剑桥词典
+2026-04-24 08:38:34,524 [INFO] database: ⏩ Duplicate skipped:  at TOP
+2026-04-24 08:38:39,478 [INFO] database: ⏩ Duplicate skipped:  at TOP
+2026-04-24 08:38:46,937 [INFO] database: ⏩ Duplicate skipped:  at TOP
+2026-04-24 08:38:46,940 [INFO] scraper: Searching Google: construction Bangalore MD CEO contact details
+2026-04-24 08:38:48,535 [INFO] primp: response: https://www.bing.com/search?q=construction+Bangalore+MD+CEO+contact+details 200
+2026-04-24 08:38:51,515 [INFO] scraper: Searching Google: site:linkedin.com/in Managing Director logistics Mumbai
+2026-04-24 08:38:53,262 [INFO] primp: response: https://www.bing.com/search?q=site%3Alinkedin.com%2Fin+Managing+Director+logistics+Mumbai 200
+2026-04-24 08:38:54,416 [INFO] primp: response: https://www.bing.com/search?q=site%3Alinkedin.com%2Fin+Managing+Director+logistics+Mumbai&first=11&FORM=PERE 200
+2026-04-24 08:38:55,356 [INFO] primp: response: https://www.bing.com/search?q=site%3Alinkedin.com%2Fin+Managing+Director+logistics+Mumbai&first=21&FORM=PERE1 200
+2026-04-24 08:38:56,454 [INFO] primp: response: https://www.bing.com/search?q=site%3Alinkedin.com%2Fin+Managing+Director+logistics+Mumbai&first=31&FORM=PERE2 200
+2026-04-24 08:38:57,502 [INFO] primp: response: https://www.bing.com/search?q=site%3Alinkedin.com%2Fin+Managing+Director+logistics+Mumbai&first=41&FORM=PERE3 200
+2026-04-24 08:39:01,138 [INFO] scraper: Searching Google: supplier needed logistics Chennai
+2026-04-24 08:39:02,305 [INFO] primp: response: https://www.bing.com/search?q=supplier+needed+logistics+Chennai 200
+2026-04-24 08:39:15,658 [INFO] database: ✅ Lead saved [ID:20]:  at SupplieråVendorçåºå«_ç¾åº¦ç¥é
+2026-04-24 08:39:20,459 [INFO] database: ⏩ Duplicate skipped:  at supplieræ¯ä»ä¹ææ_ç¾åº¦ç¥é
+2026-04-24 08:39:25,832 [INFO] database: ✅ Lead saved [ID:21]:  at supplieræ¯ä»ä¹ææï¼_ç¾åº¦ç¥é
+2026-04-24 08:39:37,260 [INFO] database: ✅ Lead saved [ID:22]:  at vendoråsupplieræä»ä¹åºå«ï¼_ç¾åº¦ç¥é
+2026-04-24 08:39:46,743 [INFO] database: ✅ Lead saved [ID:23]:  at é¿éå·´å·´å½éç«åå®¶APPä¸è½½_ç¾åº¦ç¥é
+2026-04-24 08:39:59,421 [INFO] database: ✅ Lead saved [ID:24]:  at wayfair supplier name wayfairä¸å¦ä½æ¥çèªå·±çsupplier ID?_ç¾åº¦ç¥é
+2026-04-24 08:39:59,425 [INFO] scraper: Searching Google: logistics Mumbai MD CEO contact details
+2026-04-24 08:40:01,122 [INFO] primp: response: https://www.bing.com/search?q=logistics+Mumbai+MD+CEO+contact+details 200
+2026-04-24 08:40:04,818 [INFO] scraper: Searching Google: manufacturing Delhi MD CEO contact details
+2026-04-24 08:40:06,550 [INFO] primp: response: https://www.bing.com/search?q=manufacturing+Delhi+MD+CEO+contact+details 200
+2026-04-24 08:40:49,515 [INFO] scraper: Searching Google: site:linkedin.com/in CFO construction Mumbai
+2026-04-24 08:40:50,921 [INFO] primp: response: https://www.bing.com/search?q=site%3Alinkedin.com%2Fin+CFO+construction+Mumbai 200
+2026-04-24 08:40:51,913 [INFO] primp: response: https://www.bing.com/search?q=site%3Alinkedin.com%2Fin+CFO+construction+Mumbai&first=11&FORM=PERE 200
+2026-04-24 08:40:52,895 [INFO] primp: response: https://www.bing.com/search?q=site%3Alinkedin.com%2Fin+CFO+construction+Mumbai&first=21&FORM=PERE1 200
+2026-04-24 08:40:53,900 [INFO] primp: response: https://www.bing.com/search?q=site%3Alinkedin.com%2Fin+CFO+construction+Mumbai&first=31&FORM=PERE2 200
+2026-04-24 08:40:54,872 [INFO] primp: response: https://www.bing.com/search?q=site%3Alinkedin.com%2Fin+CFO+construction+Mumbai&first=41&FORM=PERE3 200
+2026-04-24 08:40:59,551 [INFO] scraper: Searching Google: logistics Chennai MD CEO contact details
+2026-04-24 08:41:00,923 [INFO] primp: response: https://www.bing.com/search?q=logistics+Chennai+MD+CEO+contact+details 200
+2026-04-24 08:41:04,269 [INFO] scraper: Searching Google: CFO logistics company Bangalore email contact
+2026-04-24 08:41:05,060 [INFO] primp: response: https://www.bing.com/search?q=CFO+logistics+company+Bangalore+email+contact 200
+2026-04-24 08:41:10,323 [INFO] scraper: Searching Google: CEO logistics company Chennai email contact
+2026-04-24 08:41:11,686 [INFO] primp: response: https://www.bing.com/search?q=CEO+logistics+company+Chennai+email+contact 200
+2026-04-24 08:41:15,669 [INFO] scraper: Searching Google: top manufacturing companies Mumbai list
+2026-04-24 08:41:17,031 [INFO] primp: response: https://www.bing.com/search?q=top+manufacturing+companies+Mumbai+list 200
+2026-04-24 08:41:19,319 [INFO] scraper: Searching Google: healthcare Chennai MD CEO contact details
+2026-04-24 08:41:20,668 [INFO] primp: response: https://www.bing.com/search?q=healthcare+Chennai+MD+CEO+contact+details 200
+2026-04-24 08:41:22,950 [INFO] scraper: Searching Google: vendor required manufacturing Mumbai
+2026-04-24 08:41:24,325 [INFO] primp: response: https://www.bing.com/search?q=vendor+required+manufacturing+Mumbai 200
+2026-04-24 08:41:27,104 [INFO] scraper: Searching Google: Managing Director logistics company Mumbai email contact
+2026-04-24 08:41:30,210 [INFO] primp: response: https://www.bing.com/search?q=Managing+Director+logistics+company+Mumbai+email+contact 200
+2026-04-24 08:41:31,582 [INFO] primp: response: https://www.bing.com/search?q=Managing+Director+logistics+company+Mumbai+email+contact&first=11&FORM=PERE 200
+2026-04-24 08:41:38,480 [INFO] database: ✅ Lead saved [ID:25]:  at Contact Us
+2026-04-24 08:41:41,220 [INFO] database: ✅ Lead saved [ID:26]: NSYS TECHNOLOGIES at TEAMGLOBAL
+2026-04-24 08:41:46,444 [INFO] database: ✅ Lead saved [ID:27]: Shipping Agency at Welcome to MANSA!
+2026-04-24 08:41:50,479 [INFO] database: ✅ Lead saved [ID:28]: including company name at Logistics Companies Contact List
+2026-04-24 08:41:59,750 [INFO] database: ✅ Lead saved [ID:29]: Ajit Jangle at 
+2026-04-24 08:42:05,233 [INFO] database: ✅ Lead saved [ID:30]:  at BLR Logistiks (I) Ltd
+2026-04-24 08:42:14,142 [INFO] database: ✅ Lead saved [ID:31]:  at Meet Our Leadership Team
+2026-04-24 08:42:19,129 [INFO] database: ✅ Lead saved [ID:32]:  at GML
+2026-04-24 08:42:19,130 [INFO] scraper: Searching Google: finance company Bangalore contact director managing
+2026-04-24 08:42:20,505 [INFO] primp: response: https://www.bing.com/search?q=finance+company+Bangalore+contact+director+managing 200
+2026-04-24 08:42:23,128 [INFO] scraper: Scraper complete: 17 new leads from 15 queries
+2026-04-24 08:42:23,129 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-24 08:42:23,133 [INFO] database: ✅ Lead [ID:32] updated: ['score', 'category']
+2026-04-24 08:42:23,138 [INFO] database: ✅ Lead [ID:31] updated: ['score', 'category']
+2026-04-24 08:42:23,142 [INFO] database: ✅ Lead [ID:30] updated: ['score', 'category']
+2026-04-24 08:42:23,146 [INFO] database: ✅ Lead [ID:29] updated: ['score', 'category']
+2026-04-24 08:42:23,150 [INFO] database: ✅ Lead [ID:28] updated: ['score', 'category']
+2026-04-24 08:42:23,152 [INFO] database: ✅ Lead [ID:27] updated: ['score', 'category']
+2026-04-24 08:42:23,155 [INFO] database: ✅ Lead [ID:26] updated: ['score', 'category']
+2026-04-24 08:42:23,160 [INFO] database: ✅ Lead [ID:25] updated: ['score', 'category']
+2026-04-24 08:42:23,162 [INFO] database: ✅ Lead [ID:24] updated: ['score', 'category']
+2026-04-24 08:42:23,166 [INFO] database: ✅ Lead [ID:23] updated: ['score', 'category']
+2026-04-24 08:42:23,170 [INFO] database: ✅ Lead [ID:22] updated: ['score', 'category']
+2026-04-24 08:42:23,174 [INFO] database: ✅ Lead [ID:21] updated: ['score', 'category']
+2026-04-24 08:42:23,177 [INFO] database: ✅ Lead [ID:20] updated: ['score', 'category']
+2026-04-24 08:42:23,183 [INFO] database: ✅ Lead [ID:19] updated: ['score', 'category']
+2026-04-24 08:42:23,187 [INFO] database: ✅ Lead [ID:18] updated: ['score', 'category']
+2026-04-24 08:42:23,190 [INFO] database: ✅ Lead [ID:17] updated: ['score', 'category']
+2026-04-24 08:42:23,193 [INFO] database: ✅ Lead [ID:16] updated: ['score', 'category']
+2026-04-24 08:42:23,193 [INFO] scorer: Scored 17 leads: 7 HOT, 1 WARM, 9 COLD
+2026-04-24 08:42:23,194 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-24 08:42:23,595 [INFO] enricher: 🔍 Enriched company info for: TEAMGLOBAL
+2026-04-24 08:42:34,035 [INFO] database: ✅ Lead [ID:26] updated: ['company_info']
+2026-04-24 08:42:37,560 [INFO] enricher: 🔍 Enriched company info for: Welcome to MANSA!
+2026-04-24 08:42:45,414 [INFO] database: ✅ Lead [ID:27] updated: ['company_info']
+2026-04-24 08:42:49,893 [INFO] enricher: 🔍 Enriched company info for: GML
+2026-04-24 08:43:00,064 [INFO] database: ✅ Lead [ID:32] updated: ['company_info']
+2026-04-24 08:43:06,863 [INFO] enricher: 🔍 Enriched company info for: Contact Us
+2026-04-24 08:43:17,672 [INFO] database: ✅ Lead [ID:25] updated: ['company_info']
+2026-04-24 08:43:21,595 [INFO] enricher: 🔍 Enriched company info for: Mehta Industrial Works
+2026-04-24 08:43:29,409 [INFO] database: ✅ Lead [ID:1] updated: ['company_info']
+2026-04-24 08:43:33,908 [INFO] enricher: 🔍 Enriched company info for: BLR Logistiks (I) Ltd
+2026-04-24 08:43:40,833 [INFO] database: ✅ Lead [ID:30] updated: ['company_info']
+2026-04-24 08:43:47,335 [INFO] enricher: 🔍 Enriched company info for: Logistics Companies Contact List
+2026-04-24 08:43:47,336 [INFO] enricher: 📧 Generated 8 email guesses for: including company name
+2026-04-24 08:43:56,096 [INFO] database: ✅ Lead [ID:28] updated: ['company_info', 'guessed_emails']
+2026-04-24 08:44:04,984 [INFO] enricher: 🔍 Enriched company info for: Meet Our Leadership Team
+2026-04-24 08:44:13,565 [INFO] database: ✅ Lead [ID:31] updated: ['company_info']
+2026-04-24 08:44:21,979 [INFO] enricher: Enrichment complete: 8 leads enriched
+2026-04-24 08:44:21,983 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-24 08:44:21,985 [INFO] pattern_matcher: Loaded 3 existing customers
+2026-04-24 08:44:21,986 [INFO] pattern_matcher: Patterns extracted from 3 customers
+2026-04-24 08:44:21,993 [INFO] database: ✅ Lead [ID:26] updated: ['pattern_match']
+2026-04-24 08:44:21,996 [INFO] database: ✅ Lead [ID:27] updated: ['pattern_match']
+2026-04-24 08:44:22,000 [INFO] database: ✅ Lead [ID:32] updated: ['pattern_match']
+2026-04-24 08:44:22,008 [INFO] database: ✅ Lead [ID:25] updated: ['pattern_match']
+2026-04-24 08:44:22,012 [INFO] database: ✅ Lead [ID:1] updated: ['pattern_match']
+2026-04-24 08:44:22,016 [INFO] database: ✅ Lead [ID:30] updated: ['pattern_match']
+2026-04-24 08:44:22,025 [INFO] database: ✅ Lead [ID:28] updated: ['pattern_match']
+2026-04-24 08:44:22,031 [INFO] database: ✅ Lead [ID:31] updated: ['pattern_match']
+2026-04-24 08:44:22,034 [INFO] database: ✅ Lead [ID:29] updated: ['pattern_match']
+2026-04-24 08:44:22,038 [INFO] database: ✅ Lead [ID:3] updated: ['pattern_match']
+2026-04-24 08:44:22,043 [INFO] database: ✅ Lead [ID:20] updated: ['pattern_match']
+2026-04-24 08:44:22,046 [INFO] database: ✅ Lead [ID:7] updated: ['pattern_match']
+2026-04-24 08:44:22,050 [INFO] database: ✅ Lead [ID:10] updated: ['pattern_match']
+2026-04-24 08:44:22,053 [INFO] database: ✅ Lead [ID:14] updated: ['pattern_match']
+2026-04-24 08:44:22,063 [INFO] database: ✅ Lead [ID:15] updated: ['pattern_match']
+2026-04-24 08:44:22,067 [INFO] database: ✅ Lead [ID:2] updated: ['pattern_match']
+2026-04-24 08:44:22,077 [INFO] database: ✅ Lead [ID:4] updated: ['pattern_match']
+2026-04-24 08:44:22,081 [INFO] database: ✅ Lead [ID:5] updated: ['pattern_match']
+2026-04-24 08:44:22,083 [INFO] database: ✅ Lead [ID:6] updated: ['pattern_match']
+2026-04-24 08:44:22,086 [INFO] database: ✅ Lead [ID:8] updated: ['pattern_match']
+2026-04-24 08:44:22,091 [INFO] database: ✅ Lead [ID:9] updated: ['pattern_match']
+2026-04-24 08:44:22,094 [INFO] database: ✅ Lead [ID:11] updated: ['pattern_match']
+2026-04-24 08:44:22,097 [INFO] database: ✅ Lead [ID:12] updated: ['pattern_match']
+2026-04-24 08:44:22,100 [INFO] database: ✅ Lead [ID:13] updated: ['pattern_match']
+2026-04-24 08:44:22,104 [INFO] database: ✅ Lead [ID:21] updated: ['pattern_match']
+2026-04-24 08:44:22,108 [INFO] database: ✅ Lead [ID:22] updated: ['pattern_match']
+2026-04-24 08:44:22,111 [INFO] database: ✅ Lead [ID:23] updated: ['pattern_match']
+2026-04-24 08:44:22,115 [INFO] database: ✅ Lead [ID:24] updated: ['pattern_match']
+2026-04-24 08:44:22,118 [INFO] database: ✅ Lead [ID:16] updated: ['pattern_match']
+2026-04-24 08:44:22,123 [INFO] database: ✅ Lead [ID:17] updated: ['pattern_match']
+2026-04-24 08:44:22,127 [INFO] database: ✅ Lead [ID:18] updated: ['pattern_match']
+2026-04-24 08:44:22,130 [INFO] database: ✅ Lead [ID:19] updated: ['pattern_match']
+2026-04-24 08:44:22,130 [INFO] pattern_matcher: Pattern matching: 7 high, 1 medium, 24 low
+2026-04-24 08:44:22,131 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-24 08:44:22,142 [INFO] reporter: Daily report saved to /Users/family/Documents/glambot_pro/lead_gen_system/data/report.txt
+2026-04-24 08:44:22,144 [INFO] reporter: Exported 8 HOT leads to /Users/family/Documents/glambot_pro/lead_gen_system/data/hot_leads.csv
+2026-04-24 08:44:22,148 [INFO] database: 📊 Daily stats updated: 17 leads, 7 hot, 1 warm, 9 cold
+2026-04-24 08:44:22,154 [INFO] main: Pipeline complete: 17 new leads in 411 seconds
+2026-04-26 13:11:50,565 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-26 13:11:50,570 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-26 13:12:07,802 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
+2026-04-26 13:12:07,817 [INFO] database: ✅ Database initialized successfully at /Users/family/Documents/glambot_pro/lead_gen_system/data/leads.db
