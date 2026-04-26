@@ -1,0 +1,10 @@
+streamlit
+fastapi
+uvicorn
+gunicorn
+sqlalchemy
+beautifulsoup4
+requests
+lxml
+openai
+python-dotenv
