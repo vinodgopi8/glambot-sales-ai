@@ -8,24 +8,26 @@ function App() {
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState(null);
 
+  const API_BASE_URL = process.env.REACT_APP_API_URL || '';
+
   // Load historical leads on startup
   useEffect(() => {
     const fetchLeads = async () => {
       try {
-        const response = await axios.get('/leads');
+        const response = await axios.get(`${API_BASE_URL}/leads`);
         setLeads(response.data);
       } catch (err) {
         console.error("Failed to fetch leads", err);
       }
     };
     fetchLeads();
-  }, []);
+  }, [API_BASE_URL]);
 
   const runAI = async () => {
     setLoading(true);
     setError(null);
     try {
-      const response = await axios.get('/run');
+      const response = await axios.get(`${API_BASE_URL}/run`);
       // Prepend new leads to the existing list and remove duplicates
       setLeads(prev => {
         const newLeads = response.data.filter(rl => !prev.some(pl => pl.lead.url === rl.lead.url));
